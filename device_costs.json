@@ -1,0 +1,128 @@
+{
+    "smart_phones": [
+        {
+            "Model": "Apple iPhone 14",
+            "Price": 104950
+        },
+        {
+            "Model": "Samsung Galaxy S23",
+            "Price": 102500
+        },
+        {
+            "Model": "OnePlus 11",
+            "Price": 65500
+        },
+        {
+            "Model": "Xiaomi 13 Pro",
+            "Price": 90000
+        },
+        {
+            "Model": "Google Pixel 7",
+            "Price": 67500
+        },
+        {
+            "Model": "Realme GT 2 Pro",
+            "Price": 62000
+        },
+        {
+            "Model": "Vivo X90",
+            "Price": 89500
+        },
+        {
+            "Model": "Oppo Find N",
+            "Price": 100000
+        },
+        {
+            "Model": "Samsung Galaxy Z Flip4",
+            "Price": 99999
+        },
+        {
+            "Model": "Nokia G50",
+            "Price": 22500
+        }
+    ],
+    "pcs_laptops": [
+        {
+            "Model": "Dell XPS 13",
+            "Price": 120000
+        },
+        {
+            "Model": "HP Spectre x360",
+            "Price": 135000
+        },
+        {
+            "Model": "Apple MacBook Air (M2)",
+            "Price": 124950
+        },
+        {
+            "Model": "Lenovo Yoga 7i",
+            "Price": 90000
+        },
+        {
+            "Model": "Asus ROG Zephyrus G14",
+            "Price": 150000
+        },
+        {
+            "Model": "Acer Swift 3",
+            "Price": 70000
+        },
+        {
+            "Model": "Microsoft Surface Laptop 4",
+            "Price": 115000
+        },
+        {
+            "Model": "Lenovo IdeaPad 3",
+            "Price": 57500
+        },
+        {
+            "Model": "HP Pavilion 15",
+            "Price": 65000
+        },
+        {
+            "Model": "MSI GF63 Thin",
+            "Price": 82500
+        }
+    ],
+    "tablets": [
+        {
+            "Model": "Apple iPad Pro (M1)",
+            "Price": 115000
+        },
+        {
+            "Model": "Samsung Galaxy Tab S8",
+            "Price": 92500
+        },
+        {
+            "Model": "Lenovo Tab P11 Pro",
+            "Price": 47500
+        },
+        {
+            "Model": "Amazon Fire HD 10",
+            "Price": 17500
+        },
+        {
+            "Model": "Microsoft Surface Go 3",
+            "Price": 55000
+        },
+        {
+            "Model": "Huawei MatePad 11",
+            "Price": 55000
+        },
+        {
+            "Model": "Samsung Galaxy Tab A7",
+            "Price": 30000
+        },
+        {
+            "Model": "Lenovo Tab M10",
+            "Price": 20000
+        },
+        {
+            "Model": "OnePlus Pad",
+            "Price": 55000
+        },
+        {
+            "Model": "Honor Pad 8",
+            "Price": 25000
+        }
+    ]
+}
