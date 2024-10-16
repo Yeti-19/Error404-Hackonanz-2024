@@ -1,0 +1,78 @@
+{
+    "smart_phones": {
+        "touchscreen_issue": {
+            "problem": "Touch Screen not responding or malfunctioning",
+            "steps_to_resolve": [
+                "1. Restart the device: A simple restart can resolve many software glitches.",
+                "2. Clean the screen: Use a microfiber cloth to clean the screen and remove any dirt or moisture.",
+                "3. Remove screen protector: If a screen protector is applied, it may cause touch issues; try removing it.",
+                "4. Check for software updates: Ensure the device is running the latest software version.",
+                "5. Boot into safe mode: This can help determine if a third-party app is causing the issue.",
+                "6. Perform a factory reset: If the problem persists, consider backing up your data and performing a factory reset.",
+                "7. Seek professional repair: If none of the above steps work, the device may require hardware repair."
+            ]
+        },
+        "randomly_turning_off": {
+            "problem": "Device turns off randomly without warning",
+            "steps_to_resolve": [
+                "1. Check battery health: Ensure the battery is not defective or worn out.",
+                "2. Update software: Make sure the device's software is up to date.",
+                "3. Check for overheating: Ensure the device is not overheating; clean vents if applicable.",
+                "4. Boot into safe mode: Start the device in safe mode to identify third-party app issues.",
+                "5. Factory reset: As a last resort, perform a factory reset after backing up data.",
+                "6. Seek professional help: If the issue persists, consult a technician."
+            ]
+        }
+    },
+    "pcs_laptops": {
+        "boot_issues": {
+            "problem": "Failing to start or blue screen errors",
+            "steps_to_resolve": [
+                "1. Check power supply: Ensure the device is plugged in and the power supply is functional.",
+                "2. Remove external devices: Disconnect all peripherals and try booting again.",
+                "3. Boot into safe mode: Start the device in safe mode to troubleshoot potential issues.",
+                "4. Check hardware connections: Ensure all internal components are securely connected.",
+                "5. Run diagnostics: Use built-in hardware diagnostic tools to identify issues.",
+                "6. Perform a system restore: Restore the system to an earlier state if possible.",
+                "7. Seek professional repair: If the issue persists, consult a technician for further diagnosis."
+            ]
+        },
+        "wifi_bluetooth_issue": {
+            "problem": "Connectivity issues with wireless networks",
+            "steps_to_resolve": [
+                "1. Toggle airplane mode: Turn on airplane mode and then turn it off again.",
+                "2. Restart router: Restart your Wi-Fi router to refresh the connection.",
+                "3. Update drivers: Ensure Wi-Fi and Bluetooth drivers are up to date.",
+                "4. Forget and reconnect: Remove the device from your saved networks and reconnect.",
+                "5. Check for interference: Move away from devices that may cause signal interference.",
+                "6. Reset network settings: Reset network settings to restore default configurations.",
+                "7. Seek professional assistance: If the problem persists, consult a technician."
+            ]
+        }
+    },
+    "tablets": {
+        "touchscreen_issue": {
+            "problem": "Touch Screen not responding or malfunctioning",
+            "steps_to_resolve": [
+                "1. Restart the device: A simple restart can resolve many software glitches.",
+                "2. Clean the screen: Use a microfiber cloth to clean the screen and remove any dirt or moisture.",
+                "3. Remove screen protector: If a screen protector is applied, it may cause touch issues; try removing it.",
+                "4. Check for software updates: Ensure the device is running the latest software version.",
+                "5. Boot into safe mode: This can help determine if a third-party app is causing the issue.",
+                "6. Perform a factory reset: If the problem persists, consider backing up your data and performing a factory reset.",
+                "7. Seek professional repair: If none of the above steps work, the device may require hardware repair."
+            ]
+        },
+        "storage_issue": {
+            "problem": "Insufficient storage space or corrupt memory",
+            "steps_to_resolve": [
+                "1. Clear cache: Regularly clear app cache to free up space.",
+                "2. Uninstall unused apps: Remove apps that are no longer needed.",
+                "3. Move files to cloud: Use cloud storage services to back up and remove files from the device.",
+                "4. Check for large files: Use storage management tools to identify large files and delete them if unnecessary.",
+                "5. Perform a factory reset: If storage corruption is suspected, back up data and perform a factory reset.",
+                "6. Seek professional assistance: If storage issues persist, consult a technician."
+            ]
+        }
+    }
+}
