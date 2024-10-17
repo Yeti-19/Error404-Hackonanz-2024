@@ -9,7 +9,7 @@ app = FastAPI()
 # Initialize Firebase
 firebase_connected = False
 try:
-    cred = credentials.Certificate(r"File_path\serviceaccountkey.json") #Add File path here
+    cred = credentials.Certificate(r"serviceaccountkey.json") #Add File path here
     firebase_admin.initialize_app(cred)
     db = firestore.client()
     firebase_connected = True
