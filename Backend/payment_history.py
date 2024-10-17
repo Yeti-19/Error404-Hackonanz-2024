@@ -8,7 +8,7 @@ from firebase_admin import credentials, firestore
 app = FastAPI()
 
 # Initialize Firebase
-cred = credentials.Certificate(r"C:\Users\lenovo\Desktop\programming\Hackathon Hackonanz\serviceaccountkey.json")
+cred = credentials.Certificate(r"file_path\serviceaccountkey.json")
 firebase_admin.initialize_app(cred)
 db = firestore.client()  # Ensure 'db' is initialized here
 
